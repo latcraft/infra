@@ -1,2 +1,4 @@
-# infra
-LatCraft bot and dashboard infrastructure
+
+# LatCraft Infrastructure
+
+LatCraft bot and dashboard infrastructure.

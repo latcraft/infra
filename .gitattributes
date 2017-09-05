@@ -1,0 +1,4 @@
+*.properties filter=crypt diff=crypt
+*.base64 filter=crypt diff=crypt
+*.tfstate filter=crypt diff=crypt
+*.tfstate.backup filter=crypt diff=crypt
